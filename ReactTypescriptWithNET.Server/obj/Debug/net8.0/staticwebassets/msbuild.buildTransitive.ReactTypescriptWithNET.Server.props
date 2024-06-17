@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ReactTypescriptWithNET.Server.props" />
+</Project>

@@ -1,0 +1,1 @@
+C:\Users\h.bourgoin\source\repos\ReactTypescriptWithNET\reacttypescriptwithnet.client\obj\Debug\reacttypescriptwithnet.client.esproj.CoreCompileInputs.cache
